@@ -12,7 +12,7 @@
 *       On met la préposition EN devant un nom de pays féminin et devant un pays masculin commençant par une voyelle.
 *       On met la préposition AU devant un nom de pays masculin commençant par une consonne.
 *       On met la préposition AUX devant un nom de pays pluriel.
-*       On met la préposition À devant un nom de ville, ou principautés (exception avec certains pays).
+*       On met la préposition À devant un nom de principautés (exception avec certains pays).
 *
 *
 */
