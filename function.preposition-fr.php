@@ -1,5 +1,4 @@
 <?php
-
 /**
 *	Getting prepositions for country names in French
 *
@@ -9,9 +8,16 @@
 *       N.b: Rules / règles en français
 *       -------------------------------
 *       On met la préposition au devant un nom de pays masculin commençant par une consonne.
+*       We must put The preposition AU before a male country name beginning with a consonant.
+*
 *       On met la préposition en devant un nom de pays féminin et devant un pays masculin commençant par une voyelle.
+*       We must put The preposition EN before a female country name and before a male country name beginning with a vowel.
+*
 *       On met la préposition aux devant un nom de pays pluriel.
+*       We must put The prepostition AUX before a country plurial name.
+*
 *       On met la préposition à devant un nom de ville, ou principautés (exceptions à certains pays).
+*       We must put The preposition A before a city name or principalities (expect some countries).
 *
 *
 */
